@@ -1,4 +1,4 @@
-💻# linux-learning-journey-Suitable-for-students-and-beginners-in-IT.
+# 💻linux-learning-journey-Suitable-for-students-and-beginners-in-IT.
 🚀 Dokumentasi perjalanan belajar Linux
 ## Struktur Materi
 - 01-basic-commands
